@@ -1,0 +1,13 @@
+name = "End Remastered Remastered"
+filename = "End Remastered Remastered 1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3GgcVFTv/versions/pqrq6pIk/End%20Remastered%20Remastered%201.20.1.zip"
+hash-format = "sha512"
+hash = "dba06cf238484e6304b22fa5e55b68ee164f78c1c7ab94f659c9e3477fcf4eb7412fec02484e5a5e5a181e04c7a1bd9380473f3498e1807b33dae6ac223ec1ef"
+
+[update]
+[update.modrinth]
+mod-id = "3GgcVFTv"
+version = "pqrq6pIk"

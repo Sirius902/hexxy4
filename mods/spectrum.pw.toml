@@ -1,0 +1,13 @@
+name = "Spectrum"
+filename = "spectrum-1.8.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/kr5nzyJP/spectrum-1.8.9.jar"
+hash-format = "sha512"
+hash = "4f6123d552ba717508690c4cae8a4e219a51b5998000ff5a4cb042da73fea44e1e94c366ce8b7898bbafcc5bd92ee304b61a8dbd6eea8d563c3c6906fa14d39c"
+
+[update]
+[update.modrinth]
+mod-id = "3rc31Hgo"
+version = "kr5nzyJP"
